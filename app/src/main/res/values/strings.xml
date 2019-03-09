@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Frotonica1</string>
+    <string name="image_for_element1">Image for Element1</string>
+    <string name="save_image">Save Image</string>
+    <string name="share_image">Share Image</string>
+    <string name="ele1">Select Image for Element 1</string>
+    <string name="select_image_for_element_2">Select Image for Element 2</string>
+</resources>
